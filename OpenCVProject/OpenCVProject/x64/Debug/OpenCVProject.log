@@ -1,0 +1,48 @@
+﻿  main.cpp
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\BasicOpenCVFunctions.h(176,55): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\BasicOpenCVFunctions.h(176,52): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\ColorAndObjectDetection.h(49,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\ColorAndObjectDetection.h(52,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\VirtualPainter.h(13,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\VirtualPainter.h(17,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\DocumentScanner.h(14,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\DocumentScanner.h(16,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\DocumentScanner.h(69,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\DocumentScanner.h(69,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\DocumentScanner.h(102,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\DocumentScanner.h(102,31): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\DocumentScanner.h(147,52): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\C++ Projects\OpenCVProject\OpenCVProject\Scripts\DocumentScanner.h(147,33): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  OpenCVProject.vcxproj -> D:\C++ Projects\OpenCVProject\x64\Debug\OpenCVProject.exe
