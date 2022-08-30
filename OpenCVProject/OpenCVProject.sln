@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCVProject", "OpenCVProject\OpenCVProject.vcxproj", "{1329A889-C315-446E-95A7-C6652E3606DE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCVProject", "OpenCVProject.vcxproj", "{1329A889-C315-446E-95A7-C6652E3606DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {404387F8-6A79-4EFD-9584-D214E2C960AD}
+		SolutionGuid = {1BA6C0A7-BA8A-49E7-A59F-69D9B7E3B974}
 	EndGlobalSection
 EndGlobal
